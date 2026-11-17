@@ -117,9 +117,9 @@ h2 {
 
 /* Skills and Projects */
 
-/* Skills and Projects */
 
-#Skills ul {
+
+#skills ul {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
@@ -127,7 +127,7 @@ h2 {
   padding: 0;
 }
 
-#Skills li {
+#skills li {
   background: rgba(255, 255, 255, 0.5);
   padding: 12px 20px;
   border-radius: 12px;
@@ -135,7 +135,7 @@ h2 {
   transition: all 0.3s ease;
 }
 
-#Skills li:hover {
+#skills li:hover {
   background: rgba(255, 255, 255, 0.9);
   transform: translateY(-3px);
 }
